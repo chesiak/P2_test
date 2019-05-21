@@ -4,9 +4,21 @@ using namespace std;
 
 int main()
 {
-	std::cout << "Hello World" << std::endl;
-	cout << "Mialem cos zmienic" << endl;
-	cout << "Aaaaaaa, nie rozumiem" << endl;
-	cout << "Kuba jest gruby" << endl:
-	return 1;
+	std::cout << "Hejka naklejka" << std::endl;
+	std::cout << "Nowa gałąź! Yaaay" << std:endl;
+	for (int i = 0; i < 5; i++) {
+	std::cout << "wow";
+	}
+
+	std::cout << "Hello, git!" << std::endl;
+
+	int i = 0;
+	while ( i < 5 )  {
+		std::cout << "i = "<< i<< std::endl;
+		i++;
+	}
+	std::cout << "Welcome to GitHub" << std::endl;
+	std::cout << "Hello Ola" << std::endl;
+
+	return 0;
 }
