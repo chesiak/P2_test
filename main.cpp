@@ -9,7 +9,7 @@ int main()
 		std::cout << "i = "<< i<< std::endl;
 		i++;
 	}
-	std::cout << "Hejka naklejka" << std::endl;
+	std::cout << "Hejka NNNNnaklejka" << std::endl;
 	std::cout << "Nowa gałąź! Yaaay" << std:endl;
 	for (int i = 0; i < 5; i++) {
 	std::cout << "wow";
